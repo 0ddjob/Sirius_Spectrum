@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "3c373ff2-5ab7-4770-bb65-1222d2610118")
 	(paper "A4")
+	(title_block
+		(title "Interface Board for Сириус")
+		(date "31/OCT/2025")
+		(rev "B")
+		(company "www.youtube.com/@Brfff")
+	)
 	(lib_symbols
 		(symbol "Clueless_Engineer:DIN5"
 			(exclude_from_sim no)
