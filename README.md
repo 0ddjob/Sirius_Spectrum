@@ -22,6 +22,7 @@ The machine only has three ports: 5-pin DIN for joystick, 5-pin DIN for RGBS vid
 - [Сириус (Sirius) ZX Spectrum Clone: Part 1 (First Look & Power On)](https://youtu.be/TphnZRfjiL4)
 - [Сириус (Sirius) ZX Spectrum Clone: Part 2 (RGB & Tape In)](https://youtu.be/R5iWXHqjOgQ)
 - [Сириус (Sirius) ZX Spectrum Clone: Part 3 (Smallest Speccy board?)](https://youtu.be/3xgzQrBvwQw)
+- [Сириус (Sirius) ZX Spectrum Clone: Part 4 (Re-housing the Motherboard)](https://youtu.be/f84EDFyloIU)
 
 ## [Original Information](/Original_Documentation)
 Original schematic & board layout details from [here](https://sblive.narod.ru/ZX-Spectrum/Sirius/Sirius.htm).
@@ -37,7 +38,7 @@ Such a beautiful little board deserves to be seen and not hidden away in some ho
 
 ### Status
 16-Jun-2025: Submitted to PCBWAY for test fabrication<br>
-
+30-Oct-2025: Finally start building the board (see [Part 4 video](https://youtu.be/f84EDFyloIU))<br>
 
 ## [Images](/Images)
 Pictures of my machine.
